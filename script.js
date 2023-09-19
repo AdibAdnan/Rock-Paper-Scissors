@@ -31,4 +31,11 @@ function playRound(playerSelection,computerSelection)
     }
 }
 
-console.log(playRound("paper","paper"))
+function game (){
+    for(let i = 0 ; i < 5 ; i++){
+        let playerChoice = prompt("What's your move (rock / paper / scissor)")
+        console.log(playRound(getComputerChoice(),playerChoice.toLocaleLowerCase()))
+    }  
+}
+
+game()
