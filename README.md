@@ -4,13 +4,12 @@ A classic implementation of the Rock, Paper, Scissors game built with HTML, CSS,
 
 ## Live Demo
 
-You can play the game live here: **[Live Demo Link](https://your-username.github.io/Rock-Paper-Scissors/)**
+You can play the game live here: **[Live Demo Link](https://adibadnan.github.io/Rock-Paper-Scissors/)**
 
-*(Replace the link above with your actual GitHub Pages link.)*
 
-![Game Screenshot](./screenshot.png)
 
-*(To add a screenshot: take a picture of your game, name it `screenshot.png`, and add it to the root of your project folder.)*
+![Game Screenshot](./Screenshot.png)
+
 
 ## Features
 
@@ -33,7 +32,7 @@ To run this project on your local machine:
 
 1.  Clone the repository (replace `your-username` with your GitHub username):
     ```bash
-    git clone https://github.com/your-username/Rock-Paper-Scissors.git
+    git clone https://github.com/AdibAdnan/Rock-Paper-Scissors.git
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -43,4 +42,4 @@ To run this project on your local machine:
 
 ## Author
 
-- **Adib Adnan Hoque**
+ **Adib Adnan Hoque**
